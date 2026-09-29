@@ -1,7 +1,7 @@
 <img src="Untitled157_20260927051900.png" width="100%" alt="Banner" />
 
 # 💫 About Me:
-· Male | He/Him | :flag_mx:﻿﻿:flag_us:﻿﻿<br>· Anime: NGE, CSM, Initial D<br>· R&B, Hip Hop<br>· CS2, OW2, FC<br>· Experience with .LUA and .JS<br>School: ⁠ 7:15 AM﻿ - 2:15 PM﻿﻿<br>
+· Male | He/Him · Anime: NGE, CSM, Initial D<br>· R&B, Hip Hop<br>· CS2, OW2, FC<br>· Experience with .LUA and .JS<br>School: ⁠ 7:15 AM﻿ - 2:15 PM﻿﻿<br>
 
 
 # 💻 Tech Stack:
